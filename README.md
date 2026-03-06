@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dang Tran 👋
 
-<!--
-**dangtran721/dangtran721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Node.js / TypeScript)
 
-Here are some ideas to get you started:
+## About me
+- 🎓 IT student at PTIT
+- 💻 Interested in Backend & System Design
+- 🚀 Currently building backend projects with Node.js
+- 🎮 Former Unity game developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Node.js
+- TypeScript
+- Prisma
+- Docker
+- C#
+- Unity
+
+## Projects
+- Web Scraper (Node.js backend project)
+- TopDown Zombie Shooter (Unity game)
+- Fruit Match-3 (Unity puzzle game)
+
+## Contact
+Email: tranminhdang0702@gmail.com
+LinkedIn: linkedin.com/in/tranminhdang
