@@ -1,8 +1,8 @@
+
+
 # Hi 👋 I'm Dang
 
 Backend Developer with a background in Game Development.
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Node.js+%7C+TypeScript;C%23+%7C+.NET;Building+Scalable+Systems)
 
 ## About me
 - 🎓 IT student at PTIT
