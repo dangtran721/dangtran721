@@ -1,28 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;I'm+Dang;You+can+call+me+Sloth)](https://git.io/typing-svg)
 
+---
 
-# Hi 👋 I'm Dang
+## About Me
 
-Backend Developer with a background in Game Development.
-
-## About me
-- 🎓 IT student at PTIT
-- 💻 Interested in Backend & System Design
+- Hi 👋 I'm Dang
+- 🎓 IT Student at PTIT
+- 🌱 Backend Developer with a background in Game Development
+- ⚙️ Node.js | TypeScript | C# | .NET
 - 🚀 Currently building backend projects with Node.js
-- 🎮 Former Unity game developer
-
-## Tech Stack
-- Node.js
-- TypeScript
-- Prisma
-- Docker
-- C#
-- Unity
-
-## Projects
-- Web Scraper (Node.js backend project)
-- TopDown Zombie Shooter (Unity game)
-- Fruit Match-3 (Unity puzzle game)
+- 🎮 Former Unity Game Developer
+  
+---
 
 ## Contact
-Email: tranminhdang0702@gmail.com
-LinkedIn: linkedin.com/in/tranminhdang
+
+📧 Email: tranminhdang0702@gmail.com  
+🔗 LinkedIn: linkedin.com/in/tranminhdang
